@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "integrationFolder": "src",
+  "ignoreTestFiles": ["common.ts"],
+  "pluginsFile": false,
+  "supportFile": false,
+  "video": false
+}
+
